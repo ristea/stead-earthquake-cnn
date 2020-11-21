@@ -1,0 +1,30 @@
+{
+  "exp_name": "experiment_name",
+  "exp_path": "./experiments",
+  "about_experiment": "Details about the performed experiment",
+
+  "train_data_path": "Path to STEAD data set.",
+  "train_csv_path": "Path to STEAD csv data.",
+  "train_size": 0.70,
+  "valid_size": 0.15,
+  "test_size": 0.15,
+
+
+  "lr": 0.0005,
+  "lr_sch_step": 10,
+  "lr_sch_gamma": 0.5,
+  "weight_decay": 0.00001,
+  "batch_size": 32,
+
+  "normalize_labels": true,
+  "normalize_input": true,
+
+  "loss_function": "mse_loss",
+
+  "train_epochs": 50,
+  "eval_net_epoch": 1,
+  "save_net_epochs": 30,
+
+  "print_loss": 20,
+  "resume_training": false
+}
