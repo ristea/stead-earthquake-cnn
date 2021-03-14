@@ -27,13 +27,19 @@ modify (e.g. paths) in the **main.py** script, in the **test_net** method. Also,
 
 ## Cite us
 ```
-To Be Added
+@article{Ristea-2021-Complex,
+  title={Complex Neural Networks for Estimating Epicentral Distance, Depth, and Magnitude of Seismic Waves},
+  author={Ristea, Nicolae-C{\u{a}}t{\u{a}}lin and Radoi, Anamaria},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2021},
+  publisher={IEEE}
+}
 ```
 ## You can send your questions or suggestions to: 
 r.catalin196@yahoo.ro
 
 ### Last Update:
-November 20, 2020 
+March 14, 2021 
 
 
 
